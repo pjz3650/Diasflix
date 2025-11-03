@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    top: 0;
+    padding: 0;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(20, 20, 20);
+}
+
+table{
+    margin-left: 150px;
+}
+
+#logo{
+    width: 150px;
+    height: 150px;
+}
+header{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+    width: 400px;
+}
+img{
+    width: 200px;
+    border: 10px;
+    height: 300px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 0%;
+}
+
+sub{
+    display: block;
+}
